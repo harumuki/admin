@@ -210,9 +210,9 @@ if (!devMode) {
     }),
 
     new WebpackPwaManifest({
-      name: 'E-Com Plus Admin',
-      short_name: 'E-Com Plus Admin',
-      description: 'E-Com Plus Cloud Commerce Solution',
+      name: 'Cytimy Shop Admin',
+      short_name: 'Cytimy Shop Admin',
+      description: 'Cytimy Shop Admin Plus Cloud Commerce Solution',
       background_color: '#fafbfb',
       theme_color: '#37003c',
       crossorigin: 'use-credentials',
