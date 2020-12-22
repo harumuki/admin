@@ -11,7 +11,7 @@ $ecomConfig.set('lang', lang)
 if (lang === 'pt_br') {
   $ecomConfig.set('country_code', 'BR')
   $ecomConfig.set('currency', 'BRL')
-  $ecomConfig.set('currency_symbol', 'R$')
+  $ecomConfig.set('currency_symbol', 'VND')
 }
 
 const updateDom = () => {

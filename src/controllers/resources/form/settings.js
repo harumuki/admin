@@ -91,7 +91,7 @@ export default function () {
                       '<span class="i18n"> ' +
                       '      <span data-lang="en_us">Plan value</span> ' +
                       '      <span data-lang="pt_br">Valor do plano</span>' +
-                      '      </span>: R$ ' + schema.$main.plan_value + '<br>' +
+                      '      </span>: đ ' + schema.$main.plan_value + '<br>' +
                       '<span class="i18n"> ' +
                       '      <span data-lang="en_us">Orders limit</span> ' +
                       '      <span data-lang="pt_br">Limite de pedido</span>' +

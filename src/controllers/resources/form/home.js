@@ -200,7 +200,7 @@ export default function () {
                   $order.append('<tr>' +
                   '  <th scope="row"><a href="/#/resources/orders/' + orderInfo[0] + ' ">' + orderInfo[1] + ' </a></th>' +
                   '  <td>' + orderInfo[2] + '</td>' +
-                  '  <td> R$ ' + orderInfo[3] + '</td>' +
+                  '  <td> đ ' + orderInfo[3] + '</td>' +
                   '  <td><a href="/#/resources/customers/' + orderInfo[4] + ' ">' + orderInfo[5] + ' </a></td>' +
                   '</tr>')
                   const statusOrder = filteredToday[i].financial_status.current
